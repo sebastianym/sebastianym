@@ -1,6 +1,13 @@
-<h1>Hi, I'm Sebastián 👋</h1>
-<p align="left">I'm a current systems engineering student looking for new learning and challenges.</p>
-<p align="left">- 💼 My portfolio: <a href="https://sebastian-yepes.netlify.app/" target="_blank">sebastian-yepes.netlify.app</a></p>
+<h1 align="left"><b>Hi , I'm Sebastián </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<img align="right" width=300px alt="Unicorn" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+
+
+<p align="left">I am a Systems Engineering student, currently in the 7th semester. I am expanding my knowledge in front-end and back-end development. I am passionate about constantly learning and creating innovative, productive and creative solutions that generate a positive impact. </p>
+
+- 💬 If you have any questions about Next.js, JavaScript or React. I'll be happy to help you!
+- 💼 My portfolio: <a href="https://sebastian-yepes.netlify.app/" target="_blank">sebastian-yepes.netlify.app</a>
+- 📫 Reach out to me at: <a href="syepesm05@gmail.com">syepesm05@gmail.com</a>
 
 <h2 align="left">Languages: </h2>
 <div>
