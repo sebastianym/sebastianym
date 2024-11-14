@@ -3,7 +3,7 @@
 <img align="right" width=300px alt="Unicorn" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 
-<p align="left">I am a Systems Engineering student, currently in the 7th semester. I am expanding my knowledge in front-end and back-end development. I am passionate about constantly learning and creating innovative, productive and creative solutions that generate a positive impact. </p>
+<p align="left">I am a Systems Engineering student, currently in the 8th semester. I am expanding my knowledge in front-end and back-end development. I am passionate about constantly learning and creating innovative, productive and creative solutions that generate a positive impact. </p>
 
 - 💬 If you have any questions about Next.js or JavaScript. I'll be happy to help you!
 - 💼 My portfolio: <a href="https://sebastian-yepes.netlify.app/" target="_blank">sebastian-yepes.netlify.app</a>
